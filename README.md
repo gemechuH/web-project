@@ -1,2 +1,2 @@
 # web-project
-title: sales management system.
+TITLE: sales management system.
